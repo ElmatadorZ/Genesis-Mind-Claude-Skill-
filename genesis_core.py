@@ -116,3 +116,13 @@ class GenesisMind:
             data = agent.run(self.ctx, data)
 
         return data
+        from shadow_genesis import ShadowGenesis
+
+class ShadowAgent:
+    name = "Shadow"
+
+    def __init__(self):
+        self.shadow = ShadowGenesis()
+
+    def run(self, ctx, data):
+        return self.shadow.run(ctx, data)
