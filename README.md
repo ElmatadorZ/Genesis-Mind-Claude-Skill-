@@ -1,22 +1,19 @@
-# Genesis-Mind-Claude-Skill-
-Cognitive Operating System สำหรับ Claude ที่มี: Self-thinking Multi-agent reasoning Meta-cognition Self-evolution
+# GENESIS SINGULARITY
 
-# Genesis Mind Skill
+## Description
+Self-evolving AI cognitive system with autonomous agent creation.
 
-Advanced cognitive system for Claude.
+## Credits
+Bunyawat Dechanon (Money Atlas)
 
-## Features
+## Installation
 
-- First Principle reasoning
-- System Thinking
-- Multi-perspective analysis
-- Meta-cognition
-- Self-evolving agent creation
+1. Create folder: genesis-singularity
+2. Add all files
+3. Zip
+4. Upload to Claude
 
-## Usage
+## Warning
 
-Upload as skill package in Claude.
-
-Ensure:
-- SKILL.md starts with YAML
-- Zip structure is correct
+This is not a normal skill.
+This is a cognitive system.
