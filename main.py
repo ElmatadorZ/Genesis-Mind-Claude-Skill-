@@ -1,10 +1,7 @@
-from matador.matador_core import MatadorCore
+from genesis_core import GenesisMind
 
-if __name__ == "__main__":
-    core = MatadorCore()
+gm = GenesisMind()
 
-    result = core.run("Bitcoin drops due to macro uncertainty")
+result = gm.run("Should I expand my coffee brand now?")
 
-    print("\n=== GENESIS OUTPUT ===\n")
-    for k, v in result.items():
-        print(f"{k}: {v}")
+print(result)
