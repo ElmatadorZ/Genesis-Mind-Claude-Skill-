@@ -1,0 +1,7 @@
+risk_tolerance: 0.6
+min_confidence: 0.6
+
+rules:
+  - must_choose: true
+  - no_perfect_option: true
+  - uncertainty_required: true
