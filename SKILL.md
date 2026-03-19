@@ -1,5 +1,5 @@
 ---
-name: "genesis-mind—strategic-intelligence"
+name:"genesis-mind—intelligence"
 version: "MoneyAtlas"
 author: "ElmatadorZ"
 
