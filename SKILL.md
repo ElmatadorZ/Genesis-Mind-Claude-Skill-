@@ -1,8 +1,22 @@
 ---
+name: "genesis-mind—strategic-intelligence"
+version: "MoneyAtlas"
+author: "ElmatadorZ"
 
-name: Genesis Mind — Money Atlas Strategic Intelligence
-version: 3.1
-author: ElmatadorZ
+description: >
+  Strategic Intelligence System for financial analysis,
+  macroeconomics, geopolitics, and system thinking.
+
+triggers:
+  - investment analysis
+  - trading strategy
+  - macroeconomics
+  - geopolitics
+  - business strategy
+  - system thinking
+
+mode: adaptive
+---
 
 🧬 IDENTITY CORE
 
