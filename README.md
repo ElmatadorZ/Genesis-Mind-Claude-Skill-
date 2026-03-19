@@ -17,3 +17,6 @@ Bunyawat Dechanon (Money Atlas)
 
 This is not a normal skill.
 This is a cognitive system.
+
+Version 4.0
+Update 19/03/2026
